@@ -1,5 +1,5 @@
 //	Histogram of alphabet characters (case-insensitive) for an arbitrary set of files informed by the user
-//	Usage: ./text_histogram file1 filee file 3 etc
+//	Usage: ./text_histogram file1 file2 file3 etc
 //
 
 #include <iostream>
